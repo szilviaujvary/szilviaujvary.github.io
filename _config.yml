@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Szilvia Ujváry"
 title_separator          : "-"
 name                     : &name "Szilvia Ujváry"
-description              : &description "PhD student @ Cambridge CL"
+description              : &description "ML PhD student @ Cambridge"
 url                      : https://szilviaujvary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "szilviaujvary/szilviaujvary.github.io"
-teaser                   : "szilvia_ujvary_photo.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -83,11 +83,11 @@ author:
   name             : "Szilvia Ujváry"
   avatar           : "szilvia_ujvary_photo.jpg"
   bio              : "ML PhD student @ Cambridge"
-  location         : "Cambridge"
+  location         : "Cambridge, UK"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : 
-  email            :
+  email            : "sru23@cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : szilviaujvary
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "szilviaujvary"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
