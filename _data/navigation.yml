@@ -4,7 +4,4 @@ main:
     url: /publications/
         
   - title: "CV"
-    url: files/Cv_updated_short.pdf
-    
-  - title: "Guide"
-    url: /markdown/
+    url: files/CV_updated_short.pdf
