@@ -3,8 +3,9 @@ title: "Rethinking Sharpness-Aware Minimization as Variational Inference"
 collection: publications
 permalink: /publication/sam
 excerpt: 'We connect the Sharpness-Aware Minimization (SAM) algorithm to mean-field variational inference and derive novel optimization algorithms building on the said connection.'
+date: 2022-10-19
 venue: '14th International OPT Workshop on Optimization for Machine
-Learning, NeurIPS 2022'
+Learning, NeurIPS'
 paperurl: 'https://opt-ml.org/papers/2022/paper102.pdf'
 ---
 **Szilvia Ujváry\***, Zsigmond Telek\*, Anna Kerekes\*, Anna Mészáros\*, Ferenc Huszár
