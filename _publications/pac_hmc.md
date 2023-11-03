@@ -3,7 +3,8 @@ title: "Estimating optimal PAC-Bayes bounds with Hamiltonian Monte Carlo"
 collection: publications
 permalink: /publication/pac_hmc
 excerpt: 'We improve empirical PAC-Bayes bounds by estimating their optimal value using HMC samples from the Gibbs (generalized) posterior.'
-venue: '1st Mathematics of Modern Machine Learning workshop, NeurIPS 2023'
+date: 2023-10-31
+venue: '1st Mathematics of Modern Machine Learning workshop, NeurIPS'
 paperurl: 'https://arxiv.org/pdf/2310.20053v1.pdf'
 ---
 **Szilvia Ujváry**, Gergely Flamich, Vincent Fortuin, José Miguel Hernández Lobato
