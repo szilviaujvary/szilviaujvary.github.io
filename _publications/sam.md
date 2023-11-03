@@ -7,6 +7,9 @@ venue: '14th International OPT Workshop on Optimization for Machine
 Learning, NeurIPS 2022'
 paperurl: 'https://opt-ml.org/papers/2022/paper102.pdf'
 ---
+**Szilvia Ujváry\***, Zsigmond Telek\*, Anna Kerekes\*, *Anna Mészáros\*, Ferenc Huszár
+
+## Abstract
 Sharpness-aware minimisation (SAM) aims to improve the generalisation of gradient-based learn-
 ing by seeking out flat minima. In this work, we establish connections between SAM and mean-
 field variational inference (MFVI) of neural network parameters. We show that both these methods
