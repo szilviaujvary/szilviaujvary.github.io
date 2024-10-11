@@ -2,10 +2,10 @@
 title: "Position Paper: Understanding LLMs Requires More than Statistical Generalization"
 collection: publications
 permalink: /publication/position
-excerpt: 'We illustrate how statistical generalisation does not explain the emergent abilities of today's AR probabilistic models, and propose relevant research directions in OOD-generalisation and inductive biases.'
+excerpt: "We illustrate how statistical generalisation does not explain the emergent abilities of today's AR probabilistic models, and propose relevant research directions in OOD-generalisation and inductive biases."
 date: 2023-06-17
-venue: 'Spotlight, International Conference on Machine Learning (ICML)'
-paperurl: 'https://arxiv.org/pdf/2405.01964.pdf'
+venue: "Spotlight, International Conference on Machine Learning (ICML)"
+paperurl: "https://arxiv.org/pdf/2405.01964.pdf"
 ---
 Patrik Reizinger\*, **Szilvia Ujváry\***, Anna Mészáros\*, Anna Kerekes\*, Wieland Brendel, Ferenc Huszár
 
