@@ -10,7 +10,7 @@ redirect_from:
 
 <left> <h1>About Me</h1> </left>
 
-Hello and welcome to my website! I'm a second-year PhD student in the [ML@CL](https://mlatcl.github.io/) group at the University of Cambridge, supervised by [Professor Ferenc Huszár](https://www.cst.cam.ac.uk/people/fh277). 
+Hello and welcome to my website! I'm a second-year PhD student in the [ML@CL](https://mlatcl.github.io/) group at the University of Cambridge, supervised by Professor [Ferenc Huszár](https://www.cst.cam.ac.uk/people/fh277). 
 
 My research focuses on explaining emergent abilities of LLMs, such as in‑context learning and out‑of‑distribution generalisation, as well as related foundational questions in (algorithmic) information theory. 
 
