@@ -63,7 +63,7 @@ Contact: sru23 [at] cam [dot] ac [dot] uk
 </li>
 <li>
 	<div class='timeline-item'>
-		<img  class='timeline-image' src="../assets/Imperial_logo.png" width="150" height="50" float="left">
+		<img  class='timeline-image' src="../assets/Imperial_logo.png" width="140" height="40" float="left">
 		<div class='timeline-text'>
 			<p>
 			<i>October 2019 - July 2022, London, UK</i> <br/>
