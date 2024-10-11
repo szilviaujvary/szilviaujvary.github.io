@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/rule_extrap
 excerpt: 'We introduce rule extrapolation, a novel metric of OOD compositional generalisation on formal languages, and evaluate it on several AR Language model architectures. We also propose a normative model to explain OOD behaviour via simplicity bias.'
 date: 2024-09-09
-venue: 'Spotlight, Neural Information Processing Systems, 2024'
+venue: 'Spotlight, Neural Information Processing Systems'
 paperurl: 'https://arxiv.org/pdf/2409.13728.pdf'
 ---
 Anna Mészáros, **Szilvia Ujváry**, Wieland Brendel Patrik Reizinger*, and
