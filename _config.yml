@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Szilvia Ujváry"
   avatar           : "profile.jpg"
-  bio              : "ML PhD student @ Cambridge"
+  bio              : "Final-year ML PhD student @ Cambridge"
   location         : "Cambridge, UK"
   employer         :
   pubmed           :
@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true

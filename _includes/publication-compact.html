@@ -1,0 +1,5 @@
+<li class="pub">
+  {% if post.paperurl %}<a class="pub__title" href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}<span class="pub__title">{{ post.title }}</span>{% endif %}<br/>
+  {{ post.authors | markdownify | remove: "<p>" | remove: "</p>" | strip }}<br/>
+  <i>{{ post.venue }}</i>{% if post.highlight %} &middot; <strong class="pub__highlight">{{ post.highlight }}</strong>{% endif %}
+</li>

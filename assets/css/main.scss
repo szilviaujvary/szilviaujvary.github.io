@@ -39,3 +39,22 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* compact publication list (home page) */
+.pubs {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.pub {
+  margin-bottom: 1em;
+  line-height: 1.5;
+}
+
+.pub__title {
+  font-weight: bold;
+}
+
+.pub__highlight {
+  color: #b5452b;
+}

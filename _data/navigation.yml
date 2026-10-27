@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Papers"
-    url: /publications/
-        
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Talks"
+    url: /#talks
+
   - title: "CV"
-    url: /files/szilvia_ujvary_resume_2024_oct.pdf
+    url: /files/szilvia_ujvary_cv_oct_2026.pdf
