@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/implicit_bayes
 date: 2025-03-01
 authors: "**Szilvia Ujváry**, Anna Mészáros, Wieland Brendel, Patrik Reizinger, Ferenc Huszár"
-venue: "Preprint, 2025"
-paperurl: "https://mlanthology.org/iclrw/2025/ujvary2025iclrw-implicit"
+venue: "DeLTa Workshop, ICLR 2025"
+paperurl: "https://openreview.net/forum?id=YGcCR7uFT1"
 ---
